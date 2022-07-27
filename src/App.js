@@ -18,7 +18,7 @@ export default class App extends Component {
           <Navbar />
 
           <Switch>
-            <Route exact path="/">
+            <Route exact path="/NewsMonkey">
               {" "}
               <News
                 key="science"
